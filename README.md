@@ -1,3 +1,47 @@
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm TeamWork</h1>
+<h3 align="center">A Passionate Developer, AI Explorer & Entrepreneur</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Engineer-blue?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine-Learning-orange?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graphic-Designer-green?style=flat-square&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fullstack-Developer-brightgreen?style=flat-square&logo=javascript&logoColor=white" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🛒 I help manage our family shop — learning entrepreneurship the practical way  
+- 🧠 I’m currently diving deep into **AI, Machine Learning & Deep Learning**
+- 🎓 I’m working on a **fraud detection project using RandomForest & engineered features**
+- 📘 I explain **top self-help books** in Somali (Rich Dad Poor Dad, Babylon, Limitless, etc.)
+- 🖌️ I’m also learning **graphic design** while building my tech portfolio
+- 💬 I love discussing personal growth, time management, and trading (crypto & forex)
+
+---
+
+### 🔧 Projects We Built Together
+
+- 🛡️ **Fraud Detection System** using NLP, feature engineering & RandomForest  
+- 📚 **NER System** trained on Somali-language entities with CRF, spaCy & BERT  
+- 📊 **School Management System** (Backend with Node.js, Frontend with HTML/CSS/JS)  
+- 💬 **Personal AI Chatbot** powered by OpenRouter + JSON-based memory  
+- 🖼️ Designed **Somali ID cards**, CV templates, and styled dashboards with vanilla CSS
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+```plaintext
+Languages:     Python, JavaScript, HTML, CSS, SQL
+Frameworks:    Flask, Node.js, Express.js, React (upcoming)
+ML Tools:      scikit-learn, spaCy, flair, transformers, pandas, seaborn
+DB:            MySQL, PostgreSQL, MongoDB
+Tools:         VS Code, GitHub, Google Colab, Figma, Canva
+
+
 <h1 align="center">Hi 👋, I'm Maryamo Ahmed Mohamoud</h1>
 <h3 align="center">A passionate 💻 Fullstack Developer | CS & IT | Frontend & Backend Projects</h3>
 
