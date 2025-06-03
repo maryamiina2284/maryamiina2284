@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I'm Aryamo Ahmed Mohamoud — also known as Quen Reza</h1>
+<h1 align="center">Hi 👋,I'm Maryamo Ahmed Mohamoud — also known as Quen Reza</h1>
 
 
 ### 👩‍💻 About Me
