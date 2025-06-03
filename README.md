@@ -1,4 +1,15 @@
 <h1 align="center">Hi 👋, I'm Maryamo Ahmed Mohamoud</h1>
+
+
+### 👩‍💻 About Me
+
+- 🌍 I'm based in **Mogadishu, Somalia**
+- 🎓 Studying **Computer Science & IT**
+- 🌱 Currently expanding my knowledge in **Frontend & Backend**
+- ⚡ Passionate about **web development, education, and tech for good**
+- 🌐 Check out my Portfolio: [maryamaportifolio.netlify.app](https://maryamaportifolio.netlify.app/)
+
+
 <h3 align="center">A passionate 💻 Fullstack Developer | CS & IT | Frontend & Backend Projects Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamiina2284&label=Profile%20views&color=0e75b6&style=flat" alt="maryamiina2284" /> </p>
@@ -7,7 +18,7 @@
 
 <p align="left"> <a href="https://twitter.com/mariam221324179" target="blank"><img src="https://img.shields.io/twitter/follow/mariam221324179?logo=twitter&style=for-the-badge" alt="mariam221324179" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [maryamaportifolio.netlify.app](maryamaportifolio.netlify.app)
+- 👨‍💻 All of my projects are available at  [maryamaportifolio.netlify.app](https://maryamaportifolio.netlify.app/)
 
 - 💬 Ask me about **Html, Css, Bootstrap,Jscript, PHP, Python(Flask), React, Nodejs**
 
