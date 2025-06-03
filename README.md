@@ -1,16 +1,26 @@
-<h1 align="center">Hi 👋, I'm Maryamo Ahmed Mohamoud</h1>
+<h1 align="center">Hi 👋,I'm Aryamo Ahmed Mohamoud — also known as maryamiina2284</h1>
 
 
 ### 👩‍💻 About Me
 
 - 🌍 I'm based in **Mogadishu, Somalia**
 - 🎓 Studying **Computer Science & IT**
-- 🌱 Currently expanding my knowledge in **Frontend & Backend**
+- 🌱 Currently expanding my knowledge in **Fullstack Developer**
 - ⚡ Passionate about **web development, education, and tech for good**
 - 🌐 Check out my Portfolio: [maryamaportifolio.netlify.app](https://maryamaportifolio.netlify.app/)
+<h3>
+💻 I specialize in building responsive, user-friendly web applications using HTML, CSS, JavaScript, React, PHP, and Flask. I also work with databases like MySQL and MongoDB and enjoy creating backend APIs with Python and Node.js.
 
+🚀 I'm currently expanding my skills in Artificial Intelligence and Machine Learning, while also working on real-world projects such as fraud detection systems, school management platforms, and personal AI chatbots.
 
-<h3 align="center">A passionate 💻 Fullstack Developer | CS & IT | Frontend & Backend Projects Developer</h3>
+🎯 My mission is to use technology to solve real problems, support education, and empower communities through innovation. Whether it's coding interfaces, building backend systems, or designing clean user experiences — I love turning ideas into reality.
+
+🌐 Visit my portfolio: [maryamaportifolio.netlify.app](https://maryamaportifolio.netlify.app)  
+📫 Let’s connect on LinkedIn: [linkedin.com/in/maryamo-ahmed-mohamoud](https://www.linkedin.com/in/maryamo-ahmed-mohamoud)
+
+Always learning. Always building. 🌱
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamiina2284&label=Profile%20views&color=0e75b6&style=flat" alt="maryamiina2284" /> </p>
 
