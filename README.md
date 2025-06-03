@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I'm Aryamo Ahmed Mohamoud — also known as maryamiina2284</h1>
+<h1 align="center">Hi 👋,I'm Aryamo Ahmed Mohamoud — also known as Quen Reza</h1>
 
 
 ### 👩‍💻 About Me
@@ -8,19 +8,19 @@
 - 🌱 Currently expanding my knowledge in **Fullstack Developer**
 - ⚡ Passionate about **web development, education, and tech for good**
 - 🌐 Check out my Portfolio: [maryamaportifolio.netlify.app](https://maryamaportifolio.netlify.app/)
-<h3>
+  
 💻 I specialize in building responsive, user-friendly web applications using HTML, CSS, JavaScript, React, PHP, and Flask. I also work with databases like MySQL and MongoDB and enjoy creating backend APIs with Python and Node.js.
 
 🚀 I'm currently expanding my skills in Artificial Intelligence and Machine Learning, while also working on real-world projects such as fraud detection systems, school management platforms, and personal AI chatbots.
 
 🎯 My mission is to use technology to solve real problems, support education, and empower communities through innovation. Whether it's coding interfaces, building backend systems, or designing clean user experiences — I love turning ideas into reality.
 
-🌐 Visit my portfolio: [maryamaportifolio.netlify.app](https://maryamaportifolio.netlify.app)  
-📫 Let’s connect on LinkedIn: [linkedin.com/in/maryamo-ahmed-mohamoud](https://www.linkedin.com/in/maryamo-ahmed-mohamoud)
+🌐 Visit my portfolio: <h4>[maryamaportifolio.netlify.app](https://maryamaportifolio.netlify.app)  </h4>
+📫 Let’s connect on LinkedIn: <h4>[linkedin.com/in/maryamo-ahmed-mohamoud](https://www.linkedin.com/in/maryamo-ahmed-mohamoud)</h4>
 
 Always learning. Always building. 🌱
 
-</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamiina2284&label=Profile%20views&color=0e75b6&style=flat" alt="maryamiina2284" /> </p>
 
