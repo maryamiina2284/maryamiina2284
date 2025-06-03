@@ -1,26 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maryamo Ahmed Mohamoud</h1>
 <h3 align="center">A passionate 💻 Fullstack Developer | CS & IT | Frontend & Backend Projects</h3>
 
-- 💬 Ask me about **Html, Css, Bootstrap,Jscript, PHP, Python(Flask),
- React, Nodejs AI, ML, React & Backend APIs**
-
-- 🌍 I'm based in **Mogadishu, Somalia**
-- 🎓 Studying **Computer Science & IT**
-- 🌱 Currently expanding my knowledge in **AI, ML, React & Backend APIs**
-- ⚡ Passionate about **web development, education, and tech for good**
-- 🌐 Check out my Portfolio:(https://maryamaportifolio.netlify.app/)
-
-- ### 🚀 Skills
-
-```plaintext
-Frontend:  HTML, CSS, JavaScript, React
-Backend:   PHP, Flask, Python, Node.js
-Database:  MySQL, MongoDB
-Tools:     Git, GitHub, Netlify, VS Code, Postman
-
-<h1 align="center">Hi 👋, I'm Maryamo Ahmed Mohamoud</h1>
-<h3 align="center">A passionate 💻 Fullstack Developer | CS & IT | Frontend & Backend Projects</h3>
-
 - 👨‍💻 All of my projects are available at [maryamaportifolio.netlify.app](maryamaportifolio.netlify.app)
 
 - 💬 Ask me about **Html, Css, Bootstrap,Jscript, PHP, Python(Flask), React, Nodejs**
