@@ -2,12 +2,6 @@
 
 
 ### 👩‍💻 About Me
-
-- 🌍 I'm based in **Mogadishu, Somalia**
-- 🎓 Studying **Computer Science & IT**
-- 🌱 Currently expanding my knowledge in **Fullstack Developer**
-- ⚡ Passionate about **web development, education, and tech for good**
-- 🌐 Check out my Portfolio: [maryamaportifolio.netlify.app](https://maryamaportifolio.netlify.app/)
   
 💻 I specialize in building responsive, user-friendly web applications using HTML, CSS, JavaScript, React, PHP, and Flask. I also work with databases like MySQL and MongoDB and enjoy creating backend APIs with Python and Node.js.
 
@@ -15,10 +9,15 @@
 
 🎯 My mission is to use technology to solve real problems, support education, and empower communities through innovation. Whether it's coding interfaces, building backend systems, or designing clean user experiences — I love turning ideas into reality.
 
+
+- 🌍 I'm based in **Mogadishu, Somalia**
+- 🎓 Studying **Computer Science & IT**
+- 🌱 Currently expanding my knowledge in **Fullstack Developer**
+- ⚡ Passionate about **web development, education, and tech for good**
 🌐 Visit my portfolio: <h4>[maryamaportifolio.netlify.app](https://maryamaportifolio.netlify.app)  </h4>
 📫 Let’s connect on LinkedIn: <h4>[linkedin.com/in/maryamo-ahmed-mohamoud](https://www.linkedin.com/in/maryamo-ahmed-mohamoud)</h4>
 
-Always learning. Always building. 🌱
+<h3>Always learning. Always building. 🌱</h3>
 
 
 
