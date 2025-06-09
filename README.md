@@ -5,7 +5,7 @@
   
 💻 I specialize in building responsive, user-friendly web applications using HTML, CSS, JavaScript, React, PHP, and Flask. I also work with databases like MySQL and MongoDB and enjoy creating backend APIs with Python and Node.js.
 
-🚀 I'm currently expanding my skills in Artificial Intelligence and Machine Learning, while also working on real-world projects such as fraud detection systems, school management platforms, and personal AI chatbots.
+🚀 I'm currently expanding my skills in Artificial Intelligence and Machine Learning, while also working on real-world projects such as NER Systems, and Personal AI chatbots.
 
 🎯 My mission is to use technology to solve real problems, support education, and empower communities through innovation. Whether it's coding interfaces, building backend systems, or designing clean user experiences — I love turning ideas into reality.
 
