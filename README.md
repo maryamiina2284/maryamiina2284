@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maryama Ahmed 👋</h1>
+<h1 align="center">Hi, I'm Maryama Ahmed</h1>
 <h3 align="center">Software Engineer | Full Stack Web Developer</h3>
 
 <p align="center">
@@ -7,24 +7,22 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-I'm a Software Engineer specializing in full-stack web development, with experience designing and delivering scalable, responsive, and user-centered applications from front end to back end. My work spans interface development, backend architecture, API design, and database management  with an emphasis on writing clean, maintainable code and building solutions that solve real problems.
+I'm a Software Engineer specializing in full-stack web development, with experience designing and delivering scalable, responsive, and user-centered applications from front end to back end. My work spans interface development, backend architecture, API design, and database management — with an emphasis on writing clean, maintainable code and building solutions that solve real problems.
 
-I'm also expanding into Artificial Intelligence and Machine Learning, applying these skills to practical projects such as Named Entity Recognition (NER) systems and.
+My mission is to use technology to solve real problems, support education, and empower communities through innovation — whether that's building interfaces, designing backend systems, or crafting clean user experiences.
 
-My mission is to use technology to solve real problems, support education, and empower communities through innovation whether that's building interfaces, designing backend systems, or crafting clean user experiences.
-
-🌍 Based in **Mogadishu, Somalia**
-🎓 Studying **Computer Science & IT**
-🌱 Currently deepening my skills as a **Full-Stack Developer**
-⚡ Passionate about **web development, education, and tech for good**
-📫 Reach me at **maryamiinaruun6@gmail.com**
-🌐 Portfolio: [maryamaportifolio.netlify.app](https://maryamaportifolio.netlify.app)
+- Based in **Mogadishu, Somalia**
+- Studying **Computer Science & IT**
+- Currently deepening my skills as a **Full-Stack Developer**
+- Passionate about **web development, education, and tech for good**
+- Reach me at **maryamiinaruun6@gmail.com**
+- Portfolio: [maryamaportifolio.netlify.app](https://maryamaportifolio.netlify.app)
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/maryamo-ahmed-mohamoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -35,7 +33,7 @@ My mission is to use technology to solve real problems, support education, and e
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -55,7 +53,7 @@ My mission is to use technology to solve real problems, support education, and e
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maryaminaRuun&show_icons=true&locale=en&theme=default" alt="maryaminaRuun's GitHub stats" width="48%" />
@@ -63,7 +61,7 @@ My mission is to use technology to solve real problems, support education, and e
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maryaminaRuun" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=maryaminaRuun&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -72,4 +70,4 @@ My mission is to use technology to solve real problems, support education, and e
 
 ---
 
-<p align="center"><i>Always learning. Always building. 🌱</i></p>
+<p align="center"><i>Always learning. Always building.</i></p>
